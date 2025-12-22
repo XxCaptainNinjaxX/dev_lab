@@ -13,3 +13,12 @@ _This is italic_
 ```js
 console.log("This looks like real code!");
 ```
+
+_another example_
+
+```jsx
+// How to write a basic button component
+function CoolButton() {
+  return <button>Click Me</button>;
+}
+```
